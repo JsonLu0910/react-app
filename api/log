@@ -1,0 +1,720 @@
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+C:\Users\arkmind\Documents\GitHub\react-app\src\App.js:1
+import logo from './logo.svg';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (C:\Users\arkmind\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)

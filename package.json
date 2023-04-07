@@ -15,7 +15,9 @@
     "start": "set PORT=5000 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "pm2": "cd build && pm2 serve . 5000--name react"
+
   },
   "eslintConfig": {
     "extends": [
